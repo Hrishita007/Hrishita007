@@ -3,8 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=Hrishita%20Dey%20Purkayastha&fontSize=70&fontAlignY=35&desc=AI%20·%20ML%20·%20Innovation&descAlignY=60&animation=twinkling&fontColor=f7d747"/>
 </p>
 
----
-###
+<p align="center">
+  <a href="mailto:hrishu071@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="www.linkedin.com/in/hrishita-dey-purkayastha-5157092ba">
+    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishita007&theme=github-dark-dimmed&hide_border=true&ring=f7d747&fire=f7d747&currStreakLabel=f7d747" width="47%"/>
@@ -27,18 +35,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,ros,linux,docker,git&theme=dark&perline=8"/>
 </p>
 
----
-###
-
-<p align="center">
-  <a href="mailto:hrishu071@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="www.linkedin.com/in/hrishita-dey-purkayastha-5157092ba">
-    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-</p>
 
 ---
 
