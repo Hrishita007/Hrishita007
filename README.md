@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/PyTorch-f7d747?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/OpenCV-f7d747?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Linux-f7d747?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Java-f7d747?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-f7d747?style=for-the-badge&logo=springboot&logoColor=black&labelColor=0d1117"/>
 </p>
 
 ###
