@@ -27,14 +27,17 @@
   <img src="https://img.shields.io/badge/Python-f7d747?style=for-the-badge&logo=python&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/PyTorch-f7d747?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/OpenCV-f7d747?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TensorFlow-f7d747?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Linux-f7d747?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Docker-f7d747?style=for-the-badge&logo=docker&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Git-f7d747?style=for-the-badge&logo=git&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Java-f7d747?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-f7d747?style=for-the-badge&logo=springboot&logoColor=black&labelColor=0d1117"/>
 </p>
 
 ###
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,ros,linux,docker,git&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,linux,docker,git,java,spring&theme=dark&perline=9"/>
 </p>
 
 
