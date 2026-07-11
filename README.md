@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishita007&theme=github-dark-dimmed&hide_border=true&ring=f7d747&fire=f7d747&currStreakLabel=f7d747" width="47%"/>
+ <img src="https://streak-stats.demolab.com?user=Hrishita007&theme=github-dark-dimmed&hide_border=true&ring=f7d747&fire=f7d747&currStreakLabel=f7d747" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishita007&layout=compact&hide_border=true&theme=github_dark&title_color=f7d747&text_color=c9d1d9&langs_count=6&card_width=420&custom_title=Most%20Used%20Languages" width="47%"/>
 </p>
 
