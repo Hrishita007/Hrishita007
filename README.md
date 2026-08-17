@@ -1,10 +1,7 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=Hrishita%20Dey%20Purkayastha&fontSize=70&fontAlignY=35&desc=AI%20·%20Development%20·%20Innovation&descAlignY=60&animation=twinkling&fontColor=f7d747"/>
-</p>
-
-<div align="center" style="margin-top:-35px;">
-  <img src="./assets/pikarun.gif" width="700" alt="Running Pikachu"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=Hrishita%20Dey%20Purkayastha&fontSize=70&fontAlignY=35&desc=AI%20·%20Development%20·%20Innovation&descAlignY=60&animation=twinkling&fontColor=f7d747"/><br>
+  <img src="./assets/pikarun.gif" width="1000" alt="Running Pikachu"/>
 </div>
 
 <p align="center">
