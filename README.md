@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hrishita-dey-purkayastha-5157092ba">
-    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/hrishita-dey/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-f7d747?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
 </p>
 
