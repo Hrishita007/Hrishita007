@@ -51,3 +51,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&duration=4000&center=true&vCenter=true&width=800&height=70&lines=Designing+Intelligence+That+Thinks;Turning+Circuits+into+Consciousness;Innovation+That+Glows+in+the+Dark;Beyond+Code%2C+Beyond+Limits&color=F7D747&color2=FF6EC7&color3=00BFFF" alt="Typing Animation"/>
   </div>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/2GU.gif" width="150" alt="GitHub Pet"/>
+</p>
+
+<br>
