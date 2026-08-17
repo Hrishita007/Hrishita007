@@ -55,7 +55,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/2GU.gif" width="150" alt="GitHub Pet"/>
+ <img src="./assets/2GU.gif" width="220" alt="GitHub Pet"/>
 </p>
 
 <br>
