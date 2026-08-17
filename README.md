@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/pikagif.gif" width="150" alt="Running Pikachu"/>
+  <img src="./assets/pikarun.gif" width="700" alt="Running Pikachu"/>
 </p>
 
 <p align="center">
