@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/pikagif.gif" width="150" alt="Running Pikachu"/>
+</p>
+
+<p align="center">
   <a href="mailto:hrishu071@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-f7d747?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
@@ -55,7 +59,7 @@
 <br>
 
 <p align="center">
- <img src="./assets/2GU.gif" width="220" alt="GitHub Pet"/>
+  <img src="./assets/2GU.gif" width="220" alt="GitHub Pet"/>
 </p>
 
 <br>
